@@ -1,6 +1,6 @@
 # Spring Boot  + ReactJS 
 
-## Configurações
+## Configurações Back-End
 
 ### Banco --> src > main > resources > application.properties 
 
